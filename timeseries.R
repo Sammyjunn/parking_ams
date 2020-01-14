@@ -97,3 +97,7 @@ simpleNanSolver<-function(dfp){
     do(na.locf(.))
 }
 which(is.na(simpleNanSolver(startReading(54))))
+
+
+
+#test change
